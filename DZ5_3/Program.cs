@@ -38,3 +38,4 @@ min = array[i];
 diff = max - min;
 
 System.Console.WriteLine($"Максимум = {max}, минимум = {min}, разница = {diff}");
+
